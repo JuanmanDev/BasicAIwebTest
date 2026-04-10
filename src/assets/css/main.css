@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ai-primary: #3b82f6;
+  --ai-success: #10b981;
+  --ai-error: #ef4444;
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+}
+
+@keyframes skeleton-loading {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+.chat-message { @apply rounded-lg px-4 py-3 max-w-[85%]; }
+.chat-message-user { @apply bg-blue-500 text-white self-end ml-auto; }
+.chat-message-assistant { @apply bg-gray-100 dark:bg-gray-800 self-start; }
+.reasoning-block { @apply my-3 p-4 bg-purple-50 dark:bg-purple-900/20 rounded-lg border-l-4 border-purple-500; }
