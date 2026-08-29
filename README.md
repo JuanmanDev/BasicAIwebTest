@@ -1,5 +1,15 @@
 # Nuxt AI Assistant Hub
 
+<br>
+
+## 💖 Support this project
+If you found this project helpful, please consider supporting it!
+
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-JuanmanDev-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/JuanmanDev) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/juanmandev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/juanmandev)
+
+<br>
+
+
 A production-ready, scalable AI Assistant Web Application built with Nuxt 4, featuring MCP (Model Context Protocol) integration, secure code sandbox, autonomous agents, and dynamic UI rendering.
 
 ## Features
@@ -138,3 +148,13 @@ See `.env.example` for all configuration options:
 ## License
 
 MIT
+
+
+<br>
+
+## 💖 Support this project
+If you found this project helpful, please consider supporting it!
+
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-JuanmanDev-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/JuanmanDev) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/juanmandev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/juanmandev)
+
+<br>
